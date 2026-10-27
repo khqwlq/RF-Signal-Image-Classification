@@ -14,7 +14,6 @@ The task involves accurately classifying **32 different types of Radio Frequency
 
 ## 📊 Results & Validation
 * **Private Leaderboard Score:** 0.97064 (2nd Position out of the final standings).
-* A verified screenshot of the final competition leaderboard is available in the `/images` directory as empirical validation of the model's performance.
 
 ## 👤 Author
 * **Khaoula Bendjeddou** - Master 1 in Space Telecommunications, University of Blida 1.
